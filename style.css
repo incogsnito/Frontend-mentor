@@ -6,13 +6,13 @@
 
 @font-face {
   font-family: "Inter";
-  src: url("./Inter/Inter/Inter-VariableFont_opsz,wght.ttf")
+  src: url("./Inter/Inter-VariableFont_opsz,wght.ttf")
     format("truetype");
 }
 
 @font-face {
   font-family: "Lexend";
-  src: url("./Lexend_Deca/Lexend_Deca/LexendDeca-VariableFont_wght.ttf")
+  src: url("./Lexend_Deca/LexendDeca-VariableFont_wght.ttf")
     format("truetype");
 }
 
@@ -142,4 +142,5 @@ p {
     flex-direction: column;
   }
 }
+
 
